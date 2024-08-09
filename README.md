@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi 👋, I'm Kyle
+
+[![ITProKyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITProKyle&hide_border=true&show=reviews&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITProKyle&hide_border=true&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ITProKyle/ITProKyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
